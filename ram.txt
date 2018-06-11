@@ -1,0 +1,11 @@
+package main 
+
+import "fmt"
+
+func main () {
+
+var x string = "\nraamabu mobile number is   9000 44 77 54\n"
+
+fmt.Println (x)
+
+}
